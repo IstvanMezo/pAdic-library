@@ -1,5 +1,6 @@
-// pAdic_tryout.cpp : Defines the entry point for the console application.
-//
+// pAdic_tryout.cpp
+// A very simple example how the library works
+// For more complex examples, see Documentation.pdf
 
 #include "stdafx.h"
 #include <iostream>
