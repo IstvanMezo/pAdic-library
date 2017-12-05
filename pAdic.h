@@ -90,15 +90,3 @@ namespace pAdic_lib {
 		static l_int global_prec;
 	};
 }//namespace pAdic
-
-/*
-try {
-	w = initial_check_and_clean(s, p);
-}
-catch (pAdicError& e)
-{
-	if (e.get_error() == pAdicError::Syntax_Error)
-		std::cerr << "Syntax error in the initializer string!\n";
-	exit(1);
-}
-	*/
